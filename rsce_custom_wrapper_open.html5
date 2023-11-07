@@ -1,0 +1,1 @@
+<div class="<?php echo $this->class ?> container block"<?php echo $this->cssID ?>>
